@@ -1,4 +1,5 @@
 import logging
+import os
 import pandas as pd
 import gradio as gr
 try:
@@ -338,6 +339,8 @@ demo = gr.Interface(
 
 
 if __name__ == "__main__":
-    demo.launch()
+    # allow tests to override the server port
+    port = int(os.environ.get("GRADIO_PORT", "7864"))
+    demo.launch(server_name="0.0.0.0", server_port=port, share=False)
 
 

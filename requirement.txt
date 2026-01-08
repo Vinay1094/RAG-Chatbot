@@ -2,3 +2,5 @@ pandas
 gradio
 rapidfuzz
 pytest
+pytest-cov
+requests
