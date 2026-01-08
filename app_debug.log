@@ -1,0 +1,53 @@
+2026-01-09 00:22:59,303 INFO Question received: How many holdings does Garfield have?
+2026-01-09 00:22:59,317 INFO Matched holdings fund 'Garfield' -> 221
+2026-01-09 00:22:59,318 INFO Question received: Which fund performed best in 2023?
+2026-01-09 00:22:59,348 INFO Question received: Which fund performed best?
+2026-01-09 00:23:00,127 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:23:01,050 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:23:29,062 INFO Question received: How many holdings does Garfield have?
+2026-01-09 00:23:29,064 INFO Matched holdings fund 'Garfield' -> 221
+2026-01-09 00:23:29,065 INFO Question received: Which fund performed best in 2023?
+2026-01-09 00:23:29,073 INFO Question received: Which fund performed best?
+2026-01-09 00:23:29,771 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:23:30,622 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:27:10,884 INFO Question received: How many holdings does Garfield have?
+2026-01-09 00:27:10,888 INFO Matched holdings fund 'Garfield' -> 221
+2026-01-09 00:27:10,889 INFO Question received: How many trades does MNC Inv have?
+2026-01-09 00:27:10,891 INFO Matched trades fund 'AV' -> None
+2026-01-09 00:27:10,892 INFO Question received: Which fund performed best in 2023?
+2026-01-09 00:27:10,895 INFO Question received: Which fund performed best?
+2026-01-09 00:27:11,529 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:27:12,410 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:28:47,445 INFO Question received: How many trades does MNC Inv have?
+2026-01-09 00:28:47,452 INFO Matched trades fund 'AV' (score=100) -> None
+2026-01-09 00:28:48,050 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:28:48,943 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:29:13,670 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:29:14,563 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:30:43,689 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:30:45,410 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:31:18,096 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:31:18,236 INFO Question received: How many trades does MNC Inv have?
+2026-01-09 00:31:18,239 INFO Matched trades fund 'T' (score=100) -> None
+2026-01-09 00:31:19,647 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:31:39,590 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:31:39,596 INFO Question received: How many trades does MNC Inv have?
+2026-01-09 00:31:39,607 INFO Question received: How many trades does Garfield have?
+2026-01-09 00:31:39,609 INFO Question received: How many trades does HoldCo 11 have?
+2026-01-09 00:31:39,611 INFO Matched trades fund 'HoldCo 11' (score=100) -> 6
+2026-01-09 00:31:41,153 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:31:56,450 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:31:56,485 INFO Question received: How many trades does Garfield have?
+2026-01-09 00:31:56,493 INFO Question received: How many trades does MNC Inv have?
+2026-01-09 00:31:56,507 INFO Question received: How many trades does HoldCo 11 have?
+2026-01-09 00:31:56,509 INFO Matched trades fund 'HoldCo 11' (score=100) -> 6
+2026-01-09 00:31:58,018 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2026-01-09 00:34:11,748 INFO Question received: How many holdings does Garfield have?
+2026-01-09 00:34:11,752 INFO Matched holdings fund 'Garfield' (score=100) -> 221
+2026-01-09 00:34:11,752 INFO Question received: How many trades does MNC Inv have?
+2026-01-09 00:34:11,762 INFO Question received: How many trades does HoldCo 11 have?
+2026-01-09 00:34:11,763 INFO Matched trades fund 'HoldCo 11' (score=100) -> 6
+2026-01-09 00:34:11,763 INFO Question received: Which fund performed best in 2023?
+2026-01-09 00:34:11,783 INFO Question received: Which fund performed best?
+2026-01-09 00:34:12,402 INFO HTTP Request: HEAD https://huggingface.co/api/telemetry/https%3A/api.gradio.app/gradio-initiated-analytics "HTTP/1.1 200 OK"
+2026-01-09 00:34:13,204 INFO HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
